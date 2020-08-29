@@ -1,0 +1,71 @@
+.App {
+  padding: 10px;
+  
+}
+
+.css-2b097c-container {
+  width: 100%;
+}
+.Toastify__toast-body {
+  color: black;
+}
+/* 
+iframe {
+  height: 500px;
+} */
+
+a:hover {
+  color: white;
+}
+
+.mr-auto a:focus {
+  color: white;
+  opacity: 1;
+}
+
+.mr-auto a:hover {
+  color: white !important;
+  opacity: 1 !important;
+}
+
+/* For setting the bookmark position  */
+
+@media (min-width: 320px) and (max-width:768px) {
+  .qwer {
+    margin-left: 0% !important;
+  }
+}
+
+/* For setting the search bar width in header */
+
+@media (min-width: 300px) and (max-width:400px) {
+  .container {
+   width: 80% !important
+
+  }
+}
+
+@media (min-width: 400px) and (max-width:600px) {
+  .container {
+   width: 82% !important
+
+  }
+}
+
+@media (min-width: 600px) and (max-width:768px) {
+  .container {
+   width: 88% !important
+
+  }
+}
+
+
+/* For setting the position of switch in mobile view */
+@media  (max-width:768px) {
+  .headers {
+   display:inline-block !important
+  }
+}
+
+
+
